@@ -1,0 +1,13 @@
+# Local / generated
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+storage/
+config.toml
+*.log
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
